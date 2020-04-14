@@ -1,4 +1,4 @@
-IMPORTANT! PLEASE RUN JSON MOCK SERVER IN ORDER FOR THIS PROJECT TO RUN PROPERLY!!!
+IMPORTANT! PLEASE RUN JSON MOCK SERVER IN ORDER FOR THIS PROJECT TO RUN PROPERLY!!! https://github.com/AnastasiaBia/MockJsonServer.git
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
