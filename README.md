@@ -1,3 +1,5 @@
+IMPORTANT! PLEASE RUN JSON MOCK SERVER IN ORDER FOR THIS PROJECT TO RUN PROPERLY!!!
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
